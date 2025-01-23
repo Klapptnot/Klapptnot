@@ -59,6 +59,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=klapptnot&show_icons=true&theme=catppuccin_mocha&bg_color=24273a&icon_color=cba6f7&title_color=cba6f7&text_color=cad3f5&border_color=181828" alt="GitHub Stats" />
+</br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klapptnot&layout=compact&theme=catppuccin_mocha&bg_color=24273a&title_color=cba6f7&text_color=cad3f5&border_color=181828" alt="Top Languages" />
 </div>
 
