@@ -6,7 +6,7 @@
   <a href="https://twitter.com/klapptnot" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1e1e2e?style=for-the-badge&logo=X&logoColor=cba6f7" alt="Twitter Badge"/>
   </a>
-  <a href="https://discord.com/users/klapptnot" target="_blank">
+  <a href="https://discord.com/users/765061362765791232" target="_blank">
     <img src="https://img.shields.io/badge/Discord-1e1e2e?style=for-the-badge&logo=discord&logoColor=cba6f7" alt="Discord Badge"/>
   </a>
   <a href="https://github.com/klapptnot" target="_blank">
