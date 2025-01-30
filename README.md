@@ -6,12 +6,6 @@
   <a href="https://twitter.com/klapptnot" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1e1e2e?style=for-the-badge&logo=X&logoColor=cba6f7" alt="Twitter Badge"/>
   </a>
-  <a href="https://discord.com/users/765061362765791232" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-1e1e2e?style=for-the-badge&logo=discord&logoColor=cba6f7" alt="Discord Badge"/>
-  </a>
-  <a href="https://github.com/klapptnot" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7" alt="GitHub Badge"/>
-  </a>
 </div>
 
 <div align="center">
@@ -67,7 +61,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:8871e5,100:b678c4&stroke=b678c4" width="100%">
-  <a href="https://klapptnot.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://ivesaid.com/ing-soon" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-Coming_Soon-1e1e2e?style=for-the-badge&logo=googlechrome&logoColor=cba6f7&labelColor=313244" alt="Personal Website Badge"/>
   </a>
 </div>
